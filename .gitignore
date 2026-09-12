@@ -1,0 +1,9 @@
+# Datasets are downloaded, not vendored — see README for the one-line fetch.
+# (torchvision MNIST/CIFAR-10 alone is ~400 MB.)
+data/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
